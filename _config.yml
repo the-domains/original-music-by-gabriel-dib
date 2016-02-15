@@ -2,12 +2,13 @@ name: Original Music by Gabriel Dib
 favicon: null
 layout_spectrum: 0.013259093975648284
 typography_spectrum: 0.17673232546076179
+title: 'Gabriel Dib, Composer'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-44416466-1
   facebook: null
   twitter: null
 opengraph:
