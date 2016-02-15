@@ -1,7 +1,7 @@
 name: Original Music by Gabriel Dib
 favicon: null
-layout_spectrum: 0.013259093975648284
-typography_spectrum: 0.17673232546076179
+layout_spectrum: 1
+typography_spectrum: 0.9116
 title: 'Gabriel Dib, Composer'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3415607651695609
+  brandStrength: 0.625
   lightness: 0.2423888873308897
-  saturation: 0.21213683323003352
+  saturation: 0.375
   rhythmicContrast: 0.2767810367513448
 purpose: []
